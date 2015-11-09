@@ -1,0 +1,349 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0001.png",[COLOR orange]Das Erste[/COLOR]
+http://www.iptvsaga.com/play/tv/0001.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ARD.de" group-title="Deutsch" tvg-logo="0002.png",[COLOR orangered]Das Erste HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0002.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0003.png",[COLOR orange]ZDF[/COLOR]
+http://www.iptvsaga.com/play/tv/0003.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="0004.png",[COLOR orangered]ZDF HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0004.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="RTL.de" group-title="Deutsch" tvg-logo="0005.png",[COLOR orange]RTL[/COLOR]
+http://www.iptvsaga.com/play/tv/0005.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Sat1.de" group-title="Deutsch" tvg-logo="0006.png",[COLOR orange]Sat.1[/COLOR]
+http://www.iptvsaga.com/play/tv/0006.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Pro7.de" group-title="Deutsch" tvg-logo="0007.png",[COLOR orange]ProSieben[/COLOR]
+http://www.iptvsaga.com/play/tv/0007.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Kabel.de" group-title="Deutsch" tvg-logo="0008.png",[COLOR orange]kabel eins[/COLOR]
+http://www.iptvsaga.com/play/tv/0008.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="RTL2.de" group-title="Deutsch" tvg-logo="0009.png",[COLOR orange]RTL II[/COLOR]
+http://www.iptvsaga.com/play/tv/0009.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Vox.de" group-title="Deutsch" tvg-logo="0010.png",[COLOR orange]VOX[/COLOR]
+http://www.iptvsaga.com/play/tv/0010.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0011.png",[COLOR orange]arte[/COLOR]
+http://www.iptvsaga.com/play/tv/0011.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="0012.png",[COLOR orangered]arte HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0012.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0013.png",[COLOR orange]3sat[/COLOR]
+http://www.iptvsaga.com/play/tv/0013.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutsch" tvg-logo="0014.png",[COLOR orangered]3sat HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0014.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ndrhh.de" group-title="Deutsch" tvg-logo="0106.png",[COLOR gold]NDR Hamburg[/COLOR]
+http://www.iptvsaga.com/play/tv/0106.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="ndrhh.de" group-title="Deutsch" tvg-logo="0107.png",[COLOR orangered]NDR Hamburg HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0107.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="WDR.de" group-title="Deutsch" tvg-logo="0017.png",[COLOR orange]WDR[/COLOR]
+http://www.iptvsaga.com/play/tv/0017.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="WDR.de" group-title="Deutsch" tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0018.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="mdrsa.de" group-title="Deutsch" tvg-logo="0116.png",[COLOR gold]MDR Sachsenanhalt[/COLOR]
+http://www.iptvsaga.com/play/tv/0116.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="mdrhd.de" group-title="Deutsch" tvg-logo="0020.png",[COLOR orangered]MDR HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0020.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="BR.de" group-title="Deutsch" tvg-logo="0021.png",[COLOR orange]BR[/COLOR]
+http://www.iptvsaga.com/play/tv/0021.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="BR.de" group-title="Deutsch" tvg-logo="0022.png",[COLOR orangered]BR HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0022.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0023.png",[COLOR orange]SWR[/COLOR]
+http://www.iptvsaga.com/play/tv/0023.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="SWR.de" group-title="Deutsch" tvg-logo="0024.png",[COLOR orangered]SWR HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0024.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="HR.de" group-title="Deutsch" tvg-logo="0025.png",[COLOR orange]HR[/COLOR]
+http://www.iptvsaga.com/play/tv/0025.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="HR.de" group-title="Deutsch" tvg-logo="0026.png",[COLOR orangered]HR HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0026.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="rbb.de" group-title="Deutsch" tvg-logo="0027.png",[COLOR orange]RBB[/COLOR]
+http://www.iptvsaga.com/play/tv/0027.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="rbb.de" group-title="Deutsch" tvg-logo="0028.png",[COLOR orangered]RBB HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0028.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Deutsch" tvg-logo="0139.png",[COLOR gold]SR[/COLOR]
+http://www.iptvsaga.com/play/tv/0139.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0029.png",[COLOR orange]Phoenix[/COLOR]
+http://www.iptvsaga.com/play/tv/0029.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="0030.png",[COLOR orangered]Phoenix HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0030.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ARD-alpha.de" group-title="Deutsch" tvg-logo="0031.png",[COLOR orange]ARD Alpha[/COLOR]
+http://www.iptvsaga.com/play/tv/0031.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="n24.de" group-title="Deutsch" tvg-logo="0032.png",[COLOR orange]N24[/COLOR]
+http://www.iptvsaga.com/play/tv/0032.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="n24.de" group-title="Deutsch" tvg-logo="0033.png",[COLOR orangered]N24 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0033.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ntv.de" group-title="Deutsch" tvg-logo="0034.png",[COLOR orange]n-tv[/COLOR]
+http://www.iptvsaga.com/play/tv/0034.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Euronews.nws" group-title="Deutsch" tvg-logo="0035.png",[COLOR orange]euronews[/COLOR]
+http://www.iptvsaga.com/play/tv/0035.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="disneychannel.de" group-title="Deutsch" tvg-logo="0036.png",[COLOR orange]Disney Channel[/COLOR]
+http://www.iptvsaga.com/play/tv/0036.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Sixx.de" group-title="Deutsch" tvg-logo="0037.png",[COLOR orange]Sixx[/COLOR]
+http://www.iptvsaga.com/play/tv/0037.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ServusHD.de" group-title="Deutsch" tvg-logo="0122.png",[COLOR gold]ServusTV DE[/COLOR]
+http://www.iptvsaga.com/play/tv/0122.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="ServusHD.de" group-title="Deutsch" tvg-logo="0123.png",[COLOR orangered]ServusTV DE HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0123.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="RTLNitro.de" group-title="Deutsch" tvg-logo="0040.png",[COLOR orange]RTL NITRO[/COLOR]
+http://www.iptvsaga.com/play/tv/0040.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Tele5.de" group-title="Deutsch" tvg-logo="0041.png",[COLOR orange]TELE 5[/COLOR]
+http://www.iptvsaga.com/play/tv/0041.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Deutsch" tvg-logo="0043.png",[COLOR orange]Nickelodeon[/COLOR]
+http://www.iptvsaga.com/play/tv/0043.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="SuperRTL.de" group-title="Deutsch" tvg-logo="0045.png",[COLOR orange]Super RTL[/COLOR]
+http://www.iptvsaga.com/play/tv/0045.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0046.png",[COLOR orange]KiKA[/COLOR]
+http://www.iptvsaga.com/play/tv/0046.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Kika.de" group-title="Deutsch" tvg-logo="0047.png",[COLOR orangered]KiKA HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0047.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="RiC.de" group-title="Deutsch" tvg-logo="0048.png",[COLOR orange]RIC[/COLOR]
+http://www.iptvsaga.com/play/tv/0048.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Eurosport.de" group-title="Deutsch" tvg-logo="0049.png",[COLOR orange]Eurosport[/COLOR]
+http://www.iptvsaga.com/play/tv/0049.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Sport1HD.de" group-title="Deutsch" tvg-logo="0050.png",[COLOR orange]SPORT1[/COLOR]
+http://www.iptvsaga.com/play/tv/0050.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="Sport1HD.de" group-title="Deutsch" tvg-logo="0138.png",[COLOR orangered]SPORT1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0138.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" group-title="Deutsch" tvg-logo="0051.png",[COLOR orange]ProSieben Maxx[/COLOR]
+http://www.iptvsaga.com/play/tv/0051.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="DMax.de" group-title="Deutsch" tvg-logo="0052.png",[COLOR orange]DMAX[/COLOR]
+http://www.iptvsaga.com/play/tv/0052.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0053.png",[COLOR orange]ZDFneo[/COLOR]
+http://www.iptvsaga.com/play/tv/0053.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="0054.png",[COLOR orangered]ZDFneo HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0054.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ZDFkultur.de" group-title="Deutsch" tvg-logo="0055.png",[COLOR orange]ZDFkultur[/COLOR]
+http://www.iptvsaga.com/play/tv/0055.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ZDFtheater.de" group-title="Deutsch" tvg-logo="0056.png",[COLOR orangered]ZDFkultur HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0056.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0057.png",[COLOR orange]ZDFinfo[/COLOR]
+http://www.iptvsaga.com/play/tv/0057.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="0058.png",[COLOR orangered]ZDFinfo HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0058.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="EinsPlus.de" group-title="Deutsch" tvg-logo="0059.png",[COLOR orange]eins|plus[/COLOR]
+http://www.iptvsaga.com/play/tv/0059.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="EinsPlus.de" group-title="Deutsch" tvg-logo="0060.png",[COLOR orangered]eins|plus HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0060.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="EinsFestivalHD.de" group-title="Deutsch" tvg-logo="0061.png",[COLOR orange]eins[B]festival[/B][/COLOR]
+http://www.iptvsaga.com/play/tv/0061.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="EinsFestivalHD.de" group-title="Deutsch" tvg-logo="0062.png",[COLOR orangered]eins[B]festival[/B] HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0062.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="EinsFestivalHD.de" group-title="Deutsch" tvg-logo="0063.png",[COLOR orange]tagesschau24[/COLOR]
+http://www.iptvsaga.com/play/tv/0063.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="EinsFestivalHD.de" group-title="Deutsch" tvg-logo="0064.png",[COLOR orangered]tagesschau24 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0064.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" group-title="Deutsch" tvg-logo="0065.png",[COLOR orange]Deluxe Music[/COLOR]
+http://www.iptvsaga.com/play/tv/0065.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="AnixeHD.de" group-title="Deutsch" tvg-logo="0066.png",[COLOR orange]Anixe[/COLOR]
+http://www.iptvsaga.com/play/tv/0066.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="AnixeHD.de" group-title="Deutsch" tvg-logo="0067.png",[COLOR orangered]Anixe HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0067.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="DeutscheWelle.de" group-title="Deutsch" tvg-logo="0125.png",[COLOR gold]Deutsche Welle[/COLOR]
+http://www.iptvsaga.com/play/tv/0125.m3u8|X-Forwarded-For=78.43.32.8
+#EXTINF:-1 tvg-id="KTV.de" group-title="Deutsch" tvg-logo="0069.png",[COLOR orange]k-tv[/COLOR]
+http://www.iptvsaga.com/play/tv/0069.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ORF1.de" group-title="Deutsch" tvg-logo="0070.png",[COLOR orange]ORF eins[/COLOR]
+http://www.iptvsaga.com/play/tv/0070.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ORF1.de" group-title="Deutsch" tvg-logo="0071.png",[COLOR orangered]ORF eins HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0071.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ORF2.de" group-title="Deutsch" tvg-logo="0072.png",[COLOR orange]ORF 2[/COLOR]
+http://www.iptvsaga.com/play/tv/0072.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ORF2.de" group-title="Deutsch" tvg-logo="0073.png",[COLOR orangered]ORF 2 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0073.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="ATV.de" group-title="Deutsch" tvg-logo="0074.png",[COLOR orange]ATV[/COLOR]
+http://www.iptvsaga.com/play/tv/0074.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="gotv.at" group-title="Deutsch" tvg-logo="0126.png",[COLOR orange]gotv Music[/COLOR]
+http://www.iptvsaga.com/play/tv/0126.m3u8|X-Forwarded-For=84.114.88.26
+#EXTINF:-1 tvg-id="SF1.ch" group-title="Deutsch" tvg-logo="0075.png",[COLOR orange]SRF 1[/COLOR]
+http://www.iptvsaga.com/play/tv/0075.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="SF1.ch" group-title="Deutsch" tvg-logo="0076.png",[COLOR orangered]SRF 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0076.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="SF2.ch" group-title="Deutsch" tvg-logo="0077.png",[COLOR orange]SRF zwei[/COLOR]
+http://www.iptvsaga.com/play/tv/0077.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="SF2.ch" group-title="Deutsch" tvg-logo="0078.png",[COLOR orangered]SRF zwei HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0078.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="SRFinfo.ch" group-title="Deutsch" tvg-logo="0079.png",[COLOR orange]SRF info[/COLOR]
+http://www.iptvsaga.com/play/tv/0079.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="3plus.ch" group-title="Deutsch" tvg-logo="0080.png",[COLOR orange]3plus[/COLOR]
+http://www.iptvsaga.com/play/tv/0080.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="tv24.ch" group-title="Deutsch" tvg-logo="0082.png",[COLOR orangered]TV24 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0082.m3u8|X-Forwarded-For=85.4.18.50
+#EXTINF:-1 tvg-id="tf1.fr" group-title="Français" tvg-logo="0201.png",[COLOR orange]TF1[/COLOR]
+http://www.iptvsaga.com/play/tv/0201.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="tf1.fr" group-title="Français" tvg-logo="0202.png",[COLOR orangered]TF1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0202.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="france2.fr" group-title="Français" tvg-logo="0203.png",[COLOR orange]France 2[/COLOR]
+http://www.iptvsaga.com/play/tv/0203.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="france2.fr" group-title="Français" tvg-logo="0204.png",[COLOR orangered]France 2 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0204.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="france3.fr" group-title="Français" tvg-logo="0205.png",[COLOR orange]France 3[/COLOR]
+http://www.iptvsaga.com/play/tv/0205.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="canalplus.fr" group-title="Français" tvg-logo="0206.png",[COLOR orange]Canal+[/COLOR]
+http://www.iptvsaga.com/play/tv/0206.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="france5.fr" group-title="Français" tvg-logo="0207.png",[COLOR orange]France 5[/COLOR]
+http://www.iptvsaga.com/play/tv/0207.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="m6.fr" group-title="Français" tvg-logo="0208.png",[COLOR orange]M6[/COLOR]
+http://www.iptvsaga.com/play/tv/0208.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="m6.fr" group-title="Français" tvg-logo="0209.png",[COLOR orangered]M6 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0209.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="TSR1.ch" group-title="Français" tvg-logo="0210.png",[COLOR orange]RTS Un[/COLOR]
+http://www.iptvsaga.com/play/tv/0210.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="TSR1.ch" group-title="Français" tvg-logo="0211.png",[COLOR orangered]RTS Un HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0211.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="TSR2.ch" group-title="Français" tvg-logo="0212.png",[COLOR orange]RTS Deux[/COLOR]
+http://www.iptvsaga.com/play/tv/0212.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="TSR2.ch" group-title="Français" tvg-logo="0213.png",[COLOR orangered]RTS Deux HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0213.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="arte.fr" group-title="Français" tvg-logo="0214.png",[COLOR orange]arte[/COLOR]
+http://www.iptvsaga.com/play/tv/0214.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="arte.fr" group-title="Français" tvg-logo="0215.png",[COLOR orangered]arte HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0215.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="d8.fr" group-title="Français" tvg-logo="0216.png",[COLOR orange]D8[/COLOR]
+http://www.iptvsaga.com/play/tv/0216.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="w9.fr" group-title="Français" tvg-logo="0217.png",[COLOR orange]W9[/COLOR]
+http://www.iptvsaga.com/play/tv/0217.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="tmc.fr" group-title="Français" tvg-logo="0218.png",[COLOR orange]TMC[/COLOR]
+http://www.iptvsaga.com/play/tv/0218.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="nt1.fr" group-title="Français" tvg-logo="0219.png",[COLOR orange]NT 1[/COLOR] 
+http://www.iptvsaga.com/play/tv/0219.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="nrj12.fr" group-title="Français" tvg-logo="0220.png",[COLOR orange]NRJ 12[/COLOR]
+http://www.iptvsaga.com/play/tv/0220.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="france4.fr" group-title="Français" tvg-logo="0221.png",[COLOR orange]France 4[/COLOR]
+http://www.iptvsaga.com/play/tv/0221.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="bfmtv.fr" group-title="Français" tvg-logo="0222.png",[COLOR orange]BFM TV[/COLOR]
+http://www.iptvsaga.com/play/tv/0222.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="itele.fr" group-title="Français" tvg-logo="0223.png",[COLOR orange]i Télé[/COLOR]
+http://www.iptvsaga.com/play/tv/0223.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="d17.fr" group-title="Français" tvg-logo="0224.png",[COLOR orange]D17[/COLOR]
+http://www.iptvsaga.com/play/tv/0224.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="gulli.fr" group-title="Français" tvg-logo="0225.png",[COLOR orange]gulli[/COLOR]
+http://www.iptvsaga.com/play/tv/0225.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="franceo.fr" group-title="Français" tvg-logo="0226.png",[COLOR orange]France Ô[/COLOR]
+http://www.iptvsaga.com/play/tv/0226.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="hd1.fr" group-title="Français" tvg-logo="0227.png",[COLOR orangered]HD1 HD[/COLOR] 
+http://www.iptvsaga.com/play/tv/0227.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="lequipe.fr" group-title="Français" tvg-logo="0228.png",[COLOR orangered]L'Equipe 21 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0228.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="6ter.fr" group-title="Français" tvg-logo="0229.png",[COLOR orangered]6ter HD[/COLOR] 
+http://www.iptvsaga.com/play/tv/0229.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="numero23.fr" group-title="Français" tvg-logo="0230.png",[COLOR orangered]Numéro 23 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0230.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="rmcd.fr" group-title="Français" tvg-logo="0231.png",[COLOR orangered]RMC Découverte HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0231.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="cherie25.fr" group-title="Français" tvg-logo="0232.png",[COLOR orangered]Chérie 25 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0232.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="RTL9.ch" group-title="Français" tvg-logo="0233.png",[COLOR orange]RTL 9[/COLOR]
+http://www.iptvsaga.com/play/tv/0233.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" group-title="Français" tvg-logo="0234.png",[COLOR orange]TV5MONDE[/COLOR]
+http://www.iptvsaga.com/play/tv/0234.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="bfmbusiness.fr" group-title="Français" tvg-logo="0235.png",[COLOR orange]BFM Business[/COLOR] 
+http://www.iptvsaga.com/play/tv/0235.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="France24.fr" group-title="Français" tvg-logo="0236.png",[COLOR orange]France 24[/COLOR]
+http://www.iptvsaga.com/play/tv/0236.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="euronews.fr" group-title="Français" tvg-logo="0237.png",[COLOR orange]euronews[/COLOR]
+http://www.iptvsaga.com/play/tv/0237.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="montagne.fr" group-title="Français" tvg-logo="0238.png",[COLOR orange]Montagne TV[/COLOR]
+http://www.iptvsaga.com/play/tv/0238.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Français" tvg-logo="0239.png",[COLOR orange]Cartoon Network[/COLOR]
+http://www.iptvsaga.com/play/tv/0239.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Français" tvg-logo="0240.png",[COLOR orange]TVM 3[/COLOR]
+http://www.iptvsaga.com/play/tv/0240.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="rouge.fr" group-title="Français" tvg-logo="0241.png",[COLOR orange]rouge TV[/COLOR] 
+http://www.iptvsaga.com/play/tv/0241.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="canal9.fr" group-title="Français" tvg-logo="0242.png",[COLOR orange]canal 9[/COLOR]
+http://www.iptvsaga.com/play/tv/0242.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="kto.fr" group-title="Français" tvg-logo="0243.png",[COLOR orange]kto[/COLOR] 
+http://www.iptvsaga.com/play/tv/0243.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="latele.fr" group-title="Français" tvg-logo="0244.png",[COLOR orange]la télé[/COLOR]
+http://www.iptvsaga.com/play/tv/0244.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="lemanbleu.fr" group-title="Français" tvg-logo="0245.png",[COLOR orange]léman bleu[/COLOR]
+http://www.iptvsaga.com/play/tv/0245.m3u8|X-Forwarded-For=81.17.18.51
+#EXTINF:-1 tvg-id="BBC1.uk" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
+http://www.iptvsaga.com/play/tv/0401.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="BBC1.uk" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR] 
+http://www.iptvsaga.com/play/tv/0402.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="BBC2.uk" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
+http://www.iptvsaga.com/play/tv/0403.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="BBC2.uk" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR] 
+http://www.iptvsaga.com/play/tv/0404.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="bbc3cbbc.uk" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three/CBBC[/COLOR]
+http://www.iptvsaga.com/play/tv/0405.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="bbc3cbbc.uk" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three/CBBC HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0406.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="bbc4cbeebies.uk" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four/CBeebies[/COLOR]
+http://www.iptvsaga.com/play/tv/0407.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="bbc4cbeebies.uk" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four/CBeebies HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0408.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="itv.uk" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
+http://www.iptvsaga.com/play/tv/0409.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="itv.uk" group-title="English" tvg-logo="0410.png",[COLOR orangered]iTV HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0410.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="itv2.uk" group-title="English" tvg-logo="0411.png",[COLOR orange]iTV 2[/COLOR]
+http://www.iptvsaga.com/play/tv/0411.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="itv3.uk" group-title="English" tvg-logo="0412.png",[COLOR orange]iTV 3[/COLOR]
+http://www.iptvsaga.com/play/tv/0412.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="itv4.uk" group-title="English" tvg-logo="0413.png",[COLOR orange]iTV 4[/COLOR]
+http://www.iptvsaga.com/play/tv/0413.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="channel4.uk" group-title="English" tvg-logo="0414.png",[COLOR orangered]Channel 4 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0414.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="film4.uk" group-title="English" tvg-logo="0415.png",[COLOR orange]Film4[/COLOR]
+http://www.iptvsaga.com/play/tv/0415.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="channel5.uk" group-title="English" tvg-logo="0416.png",[COLOR orange]Channel 5[/COLOR]
+http://www.iptvsaga.com/play/tv/0416.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="noepg.epg" group-title="English" tvg-logo="0417.png",[COLOR orange]4More[/COLOR]
+http://www.iptvsaga.com/play/tv/0417.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="e4.uk" group-title="English" tvg-logo="0418.png",[COLOR orange]E4[/COLOR] 
+http://www.iptvsaga.com/play/tv/0418.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="FashionTV.nws" group-title="English" tvg-logo="0419.png",[COLOR orange]Fashion TV[/COLOR]
+http://www.iptvsaga.com/play/tv/0419.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="TravelChannelHD.eu" group-title="English" tvg-logo="0420.png",[COLOR orange]travel channel[/COLOR] 
+http://www.iptvsaga.com/play/tv/0420.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="BBCWorldNews.nws" group-title="English" tvg-logo="0422.png",[COLOR orange]BBC World News[/COLOR]
+http://www.iptvsaga.com/play/tv/0422.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="cnn.uk" group-title="English" tvg-logo="0423.png",[COLOR orange]CNN[/COLOR]
+http://www.iptvsaga.com/play/tv/0423.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="CCTV4.nws" group-title="English" tvg-logo="0424.png",[COLOR orange]CCTV News[/COLOR]
+http://www.iptvsaga.com/play/tv/0424.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="AlJazeeraArabe.nws" group-title="English" tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
+http://www.iptvsaga.com/play/tv/0425.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="bloomberg.uk" group-title="English" tvg-logo="0426.png",[COLOR orange]Bloomberg[/COLOR] 
+http://www.iptvsaga.com/play/tv/0426.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="cnbc.uk" group-title="English" tvg-logo="0427.png",[COLOR orange]CNBC[/COLOR]
+http://www.iptvsaga.com/play/tv/0427.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="NHKworld.jp" group-title="English" tvg-logo="0428.png",[COLOR orange]NHK World[/COLOR]
+http://www.iptvsaga.com/play/tv/0428.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="RussiaToday.uk" group-title="English" tvg-logo="0429.png",[COLOR orange]Russia Today[/COLOR]
+http://www.iptvsaga.com/play/tv/0429.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="SkyNews.uk" group-title="English" tvg-logo="0430.png",[COLOR orange]Sky News[/COLOR]
+http://www.iptvsaga.com/play/tv/0430.m3u8|X-Forwarded-For=81.17.18.52
+#EXTINF:-1 tvg-id="TSI1.ch" group-title="Italiano" tvg-logo="0601.png",[COLOR orange]RSI LA 1[/COLOR]
+http://www.iptvsaga.com/play/tv/0601.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="TSI1.ch" group-title="Italiano" tvg-logo="0602.png",[COLOR orangered]RSI LA 1 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0602.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="TSI2.ch" group-title="Italiano" tvg-logo="0603.png",[COLOR orange]RSI LA 2[/COLOR]
+http://www.iptvsaga.com/play/tv/0603.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="TSI2.ch" group-title="Italiano" tvg-logo="0604.png",[COLOR orangered]RSI LA 2 HD[/COLOR]
+http://www.iptvsaga.com/play/tv/0604.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="rai1.it" group-title="Italiano" tvg-logo="0605.png",[COLOR orange]Rai 1[/COLOR]
+http://www.iptvsaga.com/play/tv/0605.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="rai2.it" group-title="Italiano" tvg-logo="0606.png",[COLOR orange]Rai 2[/COLOR]
+http://www.iptvsaga.com/play/tv/0606.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="rai3.it" group-title="Italiano" tvg-logo="0607.png",[COLOR orange]Rai 3 [/COLOR]
+http://www.iptvsaga.com/play/tv/0607.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="raigulp.it" group-title="Italiano" tvg-logo="0608.png",[COLOR orange]Rai Gulp[/COLOR] 
+http://www.iptvsaga.com/play/tv/0608.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="RaiScuola.it" group-title="Italiano" tvg-logo="0609.png",[COLOR orange]Rai Scoula[/COLOR] 
+http://www.iptvsaga.com/play/tv/0609.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="raistoria.it" group-title="Italiano" tvg-logo="0610.png",[COLOR orange]Rai Storia[/COLOR]
+http://www.iptvsaga.com/play/tv/0610.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="raisport1.it" group-title="Italiano" tvg-logo="0611.png",[COLOR orange]Rai Sport 1[/COLOR]
+http://www.iptvsaga.com/play/tv/0611.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="raisport2.it" group-title="Italiano" tvg-logo="0612.png",[COLOR orange]Rai Sport 2[/COLOR]
+http://www.iptvsaga.com/play/tv/0612.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="rainews.it" group-title="Italiano" tvg-logo="0613.png",[COLOR orange]Rai News[/COLOR]
+http://www.iptvsaga.com/play/tv/0613.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="canale5.it" group-title="Italiano" tvg-logo="0614.png",[COLOR orange]Canale 5[/COLOR]
+http://www.iptvsaga.com/play/tv/0614.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="italia1.it" group-title="Italiano" tvg-logo="0615.png",[COLOR orange]Italia 1[/COLOR]
+http://www.iptvsaga.com/play/tv/0615.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Italiano" tvg-logo="0615.png",[COLOR gold]Rete 4[/COLOR]
+http://www.iptvsaga.com/play/tv/0618.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="noepg.epg" group-title="Italiano" tvg-logo="0616.png",[COLOR orange]TV Moda[/COLOR]
+http://www.iptvsaga.com/play/tv/0616.m3u8|X-Forwarded-For=81.17.18.53
+#EXTINF:-1 tvg-id="la7.it" group-title="Italiano" tvg-logo="0617.png",[COLOR orange]LA7[/COLOR]
+http://www.iptvsaga.com/play/tv/0617.m3u8|X-Forwarded-For=81.17.18.53
